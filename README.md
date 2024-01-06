@@ -16,7 +16,7 @@ So I decided that for each message, there should be a:
 * verb
 * location
 
-Four array are used to store each of the above categories.  
+Four arrays are used to store each of the above categories.  
 The daily message will randomly select an element from each of the array and output a message with this syntax:
 
     `${noun} will always be ${adjective}! 
